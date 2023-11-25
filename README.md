@@ -23,11 +23,11 @@ Muestra todos los datos de pacientes almacenados en el archivo "data.csv". Cada 
 Permite al usuario seleccionar aleatoriamente un método de ordenamiento para ordenar los datos de pacientes. Se incluyen una variedad de algoritmos de ordenamiento, desde burbuja hasta quicksort.
 
 * Búsqueda de Datos:
-
 Similar al ordenamiento, el programa ofrece una opción para seleccionar aleatoriamente un método de búsqueda. Puedes buscar pacientes por apellido o NSS, utilizando métodos como búsqueda binaria y búsqueda secuencial.
-- Salir:
 
+* Salir:
 Cierra el programa después de agradecer al usuario por su uso.
+
 * Funciones Adicionales:
 
 Se implementa un manejo básico de excepciones para lidiar con errores durante la lectura y escritura de archivos.
