@@ -29,9 +29,8 @@ Similar al ordenamiento, el programa ofrece una opción para seleccionar aleator
 Cierra el programa después de agradecer al usuario por su uso.
 
 * Funciones Adicionales:
-
 Se implementa un manejo básico de excepciones para lidiar con errores durante la lectura y escritura de archivos.
 El programa evalúa si los datos están ordenados antes de realizar ciertas operaciones para garantizar resultados precisos.
-Observaciones Finales:
 
+* Observaciones Finales:
 Este proyecto proporciona una funcionalidad integral para gestionar datos de pacientes hospitalarios. El enfoque de selección aleatoria para algoritmos de ordenamiento y búsqueda agrega un elemento interesante al proyecto. Sin embargo, se recomendaría una mayor modularidad y comentarios para mejorar la comprensión del código. Además, es importante probar exhaustivamente el programa para garantizar su robustez y manejo adecuado de datos.
